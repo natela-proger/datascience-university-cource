@@ -1,1 +1,3 @@
-# datascience-university-cource
+Data science course homeworks
+
+Второй семестр второго курса, ОП "Экономика" НИУ ВШЭ, курс "Наука о Данных"
